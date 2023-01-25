@@ -1,1 +1,5 @@
-salesTaxPercentage: 20
+sales-tax-percentage: 20
+
+feature-toggles:
+  credit-check: false
+  fraud-detection: false

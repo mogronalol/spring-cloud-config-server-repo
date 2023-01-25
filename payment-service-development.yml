@@ -1,0 +1,3 @@
+feature-toggles:
+  credit-check: true
+  fraud-detection: true
