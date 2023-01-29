@@ -1,2 +1,7 @@
 feature-toggles:
   fraud-detection: true
+
+spring:
+  datasource:
+    ext:
+      host: payment-service-staging-host

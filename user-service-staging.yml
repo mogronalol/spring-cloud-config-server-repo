@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    ext:
+      host: users-service-staging-host

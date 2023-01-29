@@ -1,2 +1,7 @@
 countryDenyList:
     - evilSanctionedCountry
+
+spring:
+  datasource:
+    ext:
+      database-name: users
