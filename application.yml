@@ -1,4 +1,6 @@
-management.endpoints.web.exposure.include: '*'
+management.endpoints.web.exposure.include:
+  - env
+  - busrefresh
 
 spring:
   datasource:
